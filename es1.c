@@ -4,10 +4,9 @@
   di ciascuna divisione
   */
   
-
 #include <stdio.h> 
 /* libreria che contiene tutte quelle funzioni utili alle operazioni di input e output,
-stdio è l'abbreviazione di Standard Input Output. Permette di comunicare con i dispositivi
+stdio Ã¨ l'abbreviazione di Standard Input Output. Permette di comunicare con i dispositivi
 standard di strem di input (tastiera), di output (tastiera, stampante) e di input/output (files);
 mi permette di utilizzare le funzioni  scanf() e printf() del programma.
 */
